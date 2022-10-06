@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: #1aa11a;
+}
+.nav a{
+    float: left;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    padding: 14px 26px;
+    
+}
+.nav a.li{
+    float: right;
+}
+.nav a:hover{
+    background-color: lawngreen;
+}
+
+
+.container
+{
+    margin-top: 50px;
+}
+.newarrival
+{
+    background: green;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.col-md-7 h2
+{
+    color: #555;
+}
+.stars
+{
+    height: 20px;
+}
+.p4
+{
+    color: blue;
+}
+.price
+{
+    color: red;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 70px;
+
+}
+input
+{
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+}
+
+.cart
+{
+    background-color: rgba(24, 209, 24, 0.808);
+    color: black;
+    font-size: 15px;
+    box-sizing: 30px;
+    margin-left: 20px;
+    border-radius: 8px;
+
+}
+
